@@ -1,0 +1,80 @@
+body {
+    background-color:#1C1C1C;
+    }
+    
+    header{
+        background-color: rgb(235, 155, 94);
+    }
+
+.logo {
+    width: 25%;
+}
+nav{
+    
+    position:absolute;
+    top:50px;
+    right: 50px;
+    
+
+}
+nav li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav a {
+    font-size: 17px;
+    color: rgb(21, 20, 20);
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;
+}
+nav a:hover {
+    color: rgb(230, 37, 12);
+}
+
+
+.inform li{
+    display: inline-block;
+    text-align: center;
+	width: 25%;
+	vertical-align: top;
+	margin-right: 25px;
+    margin-bottom:15px;
+	padding: 30px 20px;
+    border-top: 5px rgb(229, 114, 20) double;
+    border-left:5px rgba(191, 205, 204, 0.897) double;; 
+    border-bottom:5px rgb(229, 114, 20) double;
+    border-right:5px rgba(191, 205, 204, 0.897) double; ;
+    border-radius: 10px;
+}
+.inform h2{
+    color: aliceblue;
+    font-size: 26px;
+}
+
+.inf{
+    width: 40%;
+    border:5px rgb(218, 145, 11) solid;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: justify;
+}
+
+.inform {
+	width: 940px;
+	margin: 0 auto;
+	padding: 50px 0;
+
+}
+.produto-descricao{
+    font-size: 28px;
+    color: #ece6e6;
+}
+p{
+    font-size: 20px;
+    color: #ece6e6;
+}
+
+	
+
